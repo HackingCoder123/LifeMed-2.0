@@ -1,0 +1,11 @@
+streamlit
+PIL
+pandas
+matplotlib.pyplot
+requests
+folium
+streamlit_folium
+st_folium
+pandas
+pickle
+numpy
