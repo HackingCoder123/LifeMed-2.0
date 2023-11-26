@@ -9,7 +9,7 @@ google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 grpcio==1.50.0
 Markdown==3.4.1
-matplotlib==3.8.2
+matplotlib
 matplotlib-inline==0.1.6
 numpy==1.23.4
 oauthlib==3.2.2
